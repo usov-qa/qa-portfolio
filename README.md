@@ -29,4 +29,4 @@
 ## 📬 Контакты
 
 *   **GitHub:** [usov-qa](https://github.com/usov-qa)
-*   **Telegram:** [вставь ссылку или @username]
+*   **Telegram:** []
