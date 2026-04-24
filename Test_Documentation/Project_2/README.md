@@ -13,7 +13,7 @@
 - [test-analysis.md](./test-analysis.md) — тест-анализ и декомпозиция
 - [equivalence-classes.md](./equivalence-classes.md) — классы эквивалентности и граничные значения
 - [test-cases.md](./test-cases.md) — тест-кейсы
-- [bugs/bug-reports.md](./bugs/bug-reports.md) — баг-репорты
+- [bug-reports.md](./bug-reports.md) — баг-репорты
 
 ## Инструменты
 Google Таблицы, Яндекс Маршруты (тестовый стенд).
