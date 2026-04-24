@@ -7,6 +7,9 @@
 - Использовал агрегатные функции, JOIN, группировку и фильтрацию
 - Работал с датами и условиями отбора через HAVING
 
+Инструменты  
+SQL, PostgreSQL
+
 ## Структура базы данных
 
 - `company` — компании (id, название, страна, категория, сумма инвестиций, статус)
@@ -100,5 +103,3 @@ HAVING MIN(f.invested_companies) > 0
 ORDER BY AVG(f.invested_companies) DESC, country_code ASC
 LIMIT 10;
 ```
-Инструменты
-SQL, PostgreSQL
