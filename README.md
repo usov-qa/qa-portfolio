@@ -1,4 +1,4 @@
-# 👋 Вячеслав — Junior QA Engineer
+# Вячеслав — Junior QA Engineer
 
 Учусь тестированию в Яндекс Практикуме.
 
