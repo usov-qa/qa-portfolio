@@ -22,7 +22,6 @@
 ## Файлы
 - [checklist.md](./checklist.md) — чек-лист и результаты тестирования
 - [bug-reports.md](./bug-reports.md) — баг-репорты
-- [report.md](./report.md) — отчёт о тестировании
 
 ## Инструменты
 Postman, Apidoc, Google Таблицы, API Яндекс.Прилавок (тестовый стенд).
