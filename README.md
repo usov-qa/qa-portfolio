@@ -28,7 +28,7 @@
 | [`Charles_Logs/`](./Charles_Logs/) | Примеры анализа трафика |
 | [`SQL/`](./SQL/) | SQL-запросы для проверки данных |
 | [`Mobile_Testing/`](./Mobile_Testing/) | Тестирование мобильных приложений |
-| [`Automation_Practice/`](./Automation_Practice/) | Учебные скрипты и автотесты (Python) |
+| [`Automation/`](./Automation/) | Учебные скрипты и автотесты (Python) |
 
 ## 📬 Контакты
 
