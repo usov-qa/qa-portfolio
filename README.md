@@ -33,4 +33,3 @@
 ## 📬 Контакты
 
 *   **GitHub:** [usov-qa](https://github.com/usov-qa)
-*   **Telegram:** @твой_ник
