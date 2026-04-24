@@ -10,6 +10,6 @@
 - Составил регрессионный профиль — какие модули затронуты изменениями и что нужно перепроверить.
 
 ## Файлы
-- [bug_reports.md](./bug_reports.md) — баг-репорты
-- [bug_retest.md](./bug_retest.md) — результаты повторного тестирования
-- [regression_profile.md](./regression_profile.md) — регрессионный профиль
+- [bug-reports.md](./bug-reports.md) — баг-репорты
+- [bug-retest.md](./bug-retest.md) — результаты повторного тестирования
+- [regression-profile.md](./regression-profile.md) — регрессионный профиль
