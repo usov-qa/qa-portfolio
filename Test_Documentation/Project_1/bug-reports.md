@@ -1,7 +1,6 @@
 # Баг-репорты: форма редактирования профиля
 
-**Тестировщик:** Вячеслав Усов
-**Окружение:** Google Chrome 143.0.7499.41, Windows 10 Pro
+**Окружение:** Google Chrome 143.0.7499.41, Windows 10 Pro  
 **Связанный чек-лист:** [regression-mesto-profile.md](regression-mesto-profile.md)
 
 ---
