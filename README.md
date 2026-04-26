@@ -27,7 +27,6 @@
 | 🗄️ Базы данных | PostgreSQL |
 | 🧰 Инструменты | Charles Proxy, Android Studio, DevTools |
 | 📝 Документация | Чек-листы, тест-кейсы, баг-репорты |
-| 🐍 Автоматизация | Python, Pytest |
 
 ## 📂 Структура портфолио
 
@@ -38,7 +37,6 @@
 | [`Charles_Logs/`](./Charles_Logs/) | Примеры анализа трафика |
 | [`SQL/`](./SQL/) | SQL-запросы для проверки данных |
 | [`Mobile_Testing/`](./Mobile_Testing/) | Тестирование мобильных приложений |
-| [`Automation/`](./Automation/) | Учебные скрипты и автотесты (Python) |
 
 ## 📬 Контакты
 
