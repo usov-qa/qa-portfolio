@@ -12,11 +12,11 @@ SQL, PostgreSQL
 
 ## Структура базы данных
 
-- `company` — компании (id, название, страна, категория, сумма инвестиций, статус)
-- `people` — сотрудники (id, имя, фамилия, никнейм)
-- `education` — образование (id сотрудника, учебное заведение)
-- `acquisition` — сделки (сумма, дата, тип оплаты)
-- `fund` — фонды (страна, дата основания, количество инвестированных компаний)
+- `company` — id, name, country_code, category_code, funding_total, status
+- `people` — id, first_name, last_name, network_username
+- `education` — person_id, institution
+- `acquisition` — price_amount, acquired_at, term_code
+- `fund` — country_code, founded_at, invested_companies
 
 ## Задачи и решения
 
