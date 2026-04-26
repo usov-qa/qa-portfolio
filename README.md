@@ -42,3 +42,4 @@
 
 *   **GitHub:** [usov-qa](https://github.com/usov-qa) 
 *   **Резюме:** [посмотреть на hh.ru](https://novosibirsk.hh.ru/resume/4ba09971ff106cb7bc0039ed1f6c3434533850)
+*   **Telegram:** [usov_qa](@usov_qa)
