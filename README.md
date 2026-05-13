@@ -41,7 +41,7 @@
 | [`Charles_Logs/`](./Charles_Logs/) | Примеры анализа трафика |
 | [`SQL/`](./SQL/) | SQL-запросы для проверки данных |
 | [`Mobile_Testing/`](./Mobile_Testing/) | Тестирование мобильных приложений |
-| [`Pet_Projects/`](./Pet_projects/) | Пет-проекты |
+| [`Pet_Projects/`](./Pet_Projects/) | Пет-проекты |
 
 ## 📬 Контакты
 
